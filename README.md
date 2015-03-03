@@ -1,4 +1,4 @@
-# Generic Code of Conduct
+# Generic code of conduct
 
 A generic code of conduct based on the [GeekFeminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) and [FreeGeek Chicago](https://github.com/freegeekchicago/fgc-docs/blob/master/code-of-conduct.md) codes.
 
@@ -14,7 +14,7 @@ It includes political views in its definition of harassment and explicitly discu
 
 It includes a consensus mechanism by which potentially dangerous situations can be de-escalated, as well as a provision determining the long-term consequences of code violations.
 
-## Using this Code of Conduct
+## Using this code of conduct
 
 To adapt this code of conduct, simply fork this repository. Edits and improvements are welcome!
 
