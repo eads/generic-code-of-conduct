@@ -14,6 +14,8 @@ Participants violating these rules may be asked to temporarily leave {event/proj
 
 All such actions will be documented and publicly reported by the {organizers/code of conduct enforcement group}. Such reports may omit identifying information provided an explanation for this choice is provided.
 
+{organizers} pledge to support victims and seek justice in all cases of violation of this code.
+
 To report a violation of this code, participants should contact:
 
 * Ida Tarbell (ida@tarbell.io) *Add real contact details here*

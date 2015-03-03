@@ -20,7 +20,9 @@ To adapt this code of conduct, simply fork this repository. Edits and improvemen
 
 Codes of conduct are only as good as their enforcement. This code of conduct assumes:
 
+* The code will be clearly communicated to all participants of the group, project, or event.
 * A group designated to handle violations.
 * A paper or digital reporting mechanism as appropriate for the event/project/organization/venue.
 * A way of reporting violations and actions taken in response back to the larger community.
+* Organizers pledge to support victims fully and seek rehabilitation as appropriate for violators of the code of conduct. 
 
